@@ -130,7 +130,8 @@
         android:layout_marginTop="50dp"
         android:textColor="@color/black"
         android:textSize="20sp"
-        android:text="同一組，教同一份作業：許子宸、邱彥鵬"
+        android:gravity="center"
+        android:text="同一組，教同一份作業：許子宸、邱彥鵬\n帳號：老師的彰師大email\n            密碼：Qq12345678"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
